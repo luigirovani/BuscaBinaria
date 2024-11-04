@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BuscaBinaria", "BuscaBinaria.vcxproj", "{A8D0BEC3-7C99-4358-99C4-8D3292AA9290}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{29F26944-DCE0-4176-B565-2A319A92107C}"
+	ProjectSection(SolutionItems) = preProject
+		instrucoes.txt = instrucoes.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8D0BEC3-7C99-4358-99C4-8D3292AA9290}.Debug|x64.ActiveCfg = Debug|x64
+		{A8D0BEC3-7C99-4358-99C4-8D3292AA9290}.Debug|x64.Build.0 = Debug|x64
+		{A8D0BEC3-7C99-4358-99C4-8D3292AA9290}.Debug|x86.ActiveCfg = Debug|Win32
+		{A8D0BEC3-7C99-4358-99C4-8D3292AA9290}.Debug|x86.Build.0 = Debug|Win32
+		{A8D0BEC3-7C99-4358-99C4-8D3292AA9290}.Release|x64.ActiveCfg = Release|x64
+		{A8D0BEC3-7C99-4358-99C4-8D3292AA9290}.Release|x64.Build.0 = Release|x64
+		{A8D0BEC3-7C99-4358-99C4-8D3292AA9290}.Release|x86.ActiveCfg = Release|Win32
+		{A8D0BEC3-7C99-4358-99C4-8D3292AA9290}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0950550B-397A-423F-8322-C2699902B654}
+	EndGlobalSection
+EndGlobal
